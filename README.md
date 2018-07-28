@@ -1,6 +1,5 @@
-# Pilote framework
-pilot framework of a project reactjs
-[GitHub Pages](https://enimamouss.github.io/piloteFrame/)
+# JWT React Redux App
+framework of a project JWT React Redux
 
 ## Getting Started
 
